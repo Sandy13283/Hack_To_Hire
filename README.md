@@ -1,5 +1,11 @@
 ![image](https://github.com/user-attachments/assets/780dd2bf-95fa-445a-b954-a5f638093a8d)
 
+
+# Tech Stack:
+![image](https://github.com/user-attachments/assets/9d682fb7-ac42-416f-a20a-aef3e3e9cc12) ![image](https://github.com/user-attachments/assets/21049d77-7c6b-48da-a15d-3c205e20b24f)
+
+
+
 #  Data Exploration, Cleaning, and Preprocessing
 
    • Analyzed the structure and content of the dataset, removing any irrelevant information.
