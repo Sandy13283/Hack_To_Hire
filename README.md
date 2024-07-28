@@ -2,11 +2,12 @@
 
 
 # Tech Stack:
-![image](https://github.com/user-attachments/assets/9d682fb7-ac42-416f-a20a-aef3e3e9cc12) ![image](https://github.com/user-attachments/assets/490e9ac1-b060-4883-b8e1-6f2566b28cfb) ![image](https://github.com/user-attachments/assets/88f63e80-c575-4a1a-a570-66399ffe078f)
+![image](https://github.com/user-attachments/assets/9d682fb7-ac42-416f-a20a-aef3e3e9cc12) ![image](https://github.com/user-attachments/assets/490e9ac1-b060-4883-b8e1-6f2566b28cfb) ![image](https://github.com/user-attachments/assets/0b90c12f-dadb-4e16-927b-70b739a58230)
+ ![image](https://github.com/user-attachments/assets/88f63e80-c575-4a1a-a570-66399ffe078f)
 
 
 
-
+# FLOW PROCESS 
 
 #  Data Exploration, Cleaning, and Preprocessing
 
