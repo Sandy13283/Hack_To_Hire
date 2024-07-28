@@ -17,7 +17,7 @@
    
 #  Model Selection and Evaluation
 
-   • Tested various NLP model T5.
+   • Tested NLP models T5.
    
    • Evaluated model performance using metrics such as ROUGE, BLEU, and F1-score, identifying the best model for the task.
 
