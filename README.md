@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/229e2ed2-fcea-45cd-9f27-e95db7a57adf)
+![image](https://github.com/user-attachments/assets/780dd2bf-95fa-445a-b954-a5f638093a8d)
 
 #  Data Exploration, Cleaning, and Preprocessing
 
