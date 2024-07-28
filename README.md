@@ -2,8 +2,7 @@
 
 
 # Tech Stack:
-![image](https://github.com/user-attachments/assets/9d682fb7-ac42-416f-a20a-aef3e3e9cc12) ![image](https://github.com/user-attachments/assets/490e9ac1-b060-4883-b8e1-6f2566b28cfb) ![Screenshot 2024-07-28 200229](https://github.com/user-attachments/assets/e3dabe7c-e9c9-4590-b8be-87b82307a5a6)
-
+![image](https://github.com/user-attachments/assets/9d682fb7-ac42-416f-a20a-aef3e3e9cc12) ![image](https://github.com/user-attachments/assets/490e9ac1-b060-4883-b8e1-6f2566b28cfb) 
  ![image](https://github.com/user-attachments/assets/88f63e80-c575-4a1a-a570-66399ffe078f)
 
 
@@ -41,7 +40,8 @@
 
    ![Screenshot 2024-07-28 200131](https://github.com/user-attachments/assets/7a90ed3c-2fc7-44cb-a01d-c9437b28ad7a)
    ![Screenshot 2024-07-28 200141](https://github.com/user-attachments/assets/188ed1ab-aaba-4a7c-add6-18d35c0c38f3)
-   ![Screenshot 2024-07-28 200156](https://github.com/user-attachments/assets/337e49bd-324a-491e-87aa-ebb53d5f7cb4)![Screenshot 2024-07-28 200219](https://github.com/user-attachments/assets/934746c9-1685-4d00-b5d3-4fc1344bd9d6)![Screenshot 2024-07-28 200219](https://github.com/user-attachments/assets/b2fc80bb-c5ac-42cd-a12e-a9fbdb52f96c)
+   ![Screenshot 2024-07-28 200156](https://github.com/user-attachments/assets/337e49bd-324a-491e-87aa-ebb53d5f7cb4)![Screenshot 2024-07-28 200219](https://github.com/user-attachments/assets/934746c9-1685-4d00-b5d3-4fc1344bd9d6)![Screenshot 2024-07-28 200229](https://github.com/user-attachments/assets/e3dabe7c-e9c9-4590-b8be-87b82307a5a6)
+
    ![Screenshot 2024-07-28 200210](https://github.com/user-attachments/assets/efed8f64-969f-47e2-ad3c-692dbed4ae1b)
 
 
